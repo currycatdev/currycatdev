@@ -64,5 +64,5 @@ I value:
 ---
 
 <p align="center">
-  <sub>Multiverse approved. Portal stable. Code compiling.</sub>
+  <sub>Multiverse approved.</sub>
 </p>
