@@ -1,68 +1,72 @@
-<!-- ========================= -->
-<!--  CYBERSECURITY.OG README  -->
-<!-- ========================= -->
+<!-- =============================== -->
+<!--  CurryCat / cybersecurity.og   -->
+<!-- =============================== -->
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/251951476?v=4" width="150" style="border-radius:50%" />
+</p>
 
 <h1 align="center">
-  🧪 CurryCat / cybersecurity.og
+  CurryCat
 </h1>
 
 <p align="center">
-  <i>Wubba Lubba Dub Dub — shipping code across the multiverse.</i>
-</p>
-
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/251951476?v=4" width="160" style="border-radius:50%" />
+  <b>cybersecurity.og</b><br>
+  Developer · Tool Builder · UI-focused
 </p>
 
 ---
 
-## 🧠 About Me
+## 📌 Account Info
 
-I’m **CurryCat**, also known as **cybersecurity.og**.  
-I build things that are **clean, powerful, and slightly unhinged** — from developer tools to UI-heavy projects.
+This GitHub account is used for:
+- personal development projects  
+- experimental tools and utilities  
+- game-related projects & mods  
+- UI / UX-focused applications  
 
-- 🔐 Interested in **Cybersecurity & reverse engineering**
-- 🧑‍💻 Full-stack & systems-oriented developer
-- 🧪 Obsessed with automation, tooling & clean UX
-- 🌌 Always experimenting — nothing stays vanilla
+Most repositories here are **actively developed**, **experimental**, or **part of larger systems**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Main Focus Areas
+
+- **Tooling & Automation**  
+  Custom tools that simplify workflows or expose internals.
+
+- **UI-heavy Applications**  
+  Clean interfaces with smooth animations and attention to detail.
+
+- **Game & Modding Projects**  
+  Engine-level experimentation, mods, and prototypes.
+
+- **Scripting & Systems**  
+  Projects where structure, logic, and performance matter.
+
+---
+
+## 💻 Tech Overview
 
 **Languages**
 - Python
 - Java
-- JavaScript / HTML / CSS
+- JavaScript
+- HTML / CSS
 
-**Frameworks & Tools**
-- PyQt / Qt
-- LWJGL
-- Discord APIs
-- SQLite
+**Tools & Tech**
 - Git / GitHub
+- Desktop & Web frameworks
+- APIs & custom systems
 
 ---
 
-## 🌌 Philosophy
+## 🌐 Links
 
-> “If the system lets me do it, I’ll probably try it.”
-
-I value:
-- readable code  
-- modular design  
-- performance where it matters  
-- aesthetics that don’t get in the way  
-
----
-
-## 🔗 Links
-
-- 💬 **Discord** → https://discord.gg/UPVcRep4Wp  
-- 🧠 **GitHub** → https://github.com/currycatdev  
+- Discord → https://discord.gg/UPVcRep4Wp  
+- GitHub → https://github.com/currycatdev  
 
 ---
 
 <p align="center">
-  <sub>Multiverse approved.</sub>
+  <sub>Clean projects. Controlled chaos. Multiverse approved.</sub>
 </p>
