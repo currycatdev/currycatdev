@@ -23,7 +23,6 @@ I build things that are **clean, powerful, and slightly unhinged** — from deve
 
 - 🔐 Interested in **Cybersecurity & reverse engineering**
 - 🧑‍💻 Full-stack & systems-oriented developer
-- 🎮 Game modding & engine-level tinkering
 - 🧪 Obsessed with automation, tooling & clean UX
 - 🌌 Always experimenting — nothing stays vanilla
 
@@ -38,28 +37,10 @@ I build things that are **clean, powerful, and slightly unhinged** — from deve
 
 **Frameworks & Tools**
 - PyQt / Qt
-- Unity
 - LWJGL
 - Discord APIs
 - SQLite
 - Git / GitHub
-
-**Domains**
-- Tooling & Automation
-- Game Modding
-- Security-related projects
-- Desktop Applications
-- Web UI / UX
-
----
-
-## 🚀 Featured Projects
-
-🤖 **Discord Bots**  
-Advanced moderation, automation, and community systems.
-
-🌐 **UI-Focused Apps**  
-Clean, modern desktop & web interfaces with a strong focus on usability.
 
 ---
 
