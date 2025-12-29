@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  tools • ui • experiments • controlled chaos
+  tools • ui • experiments
 </p>
 
 <p align="center">
