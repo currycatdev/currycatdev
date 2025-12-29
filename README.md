@@ -1,72 +1,47 @@
-<!-- =============================== -->
-<!--  CurryCat / cybersecurity.og   -->
-<!-- =============================== -->
+<!-- Profile README for @currycatdev -->
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/251951476?v=4" width="150" style="border-radius:50%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=700&center=true&vCenter=true&width=900&height=80&lines=Hi,+I'm+CurryCat;cybersecurity.og;I+build+things+that+actually+work" alt="Typing"/>
 </p>
 
-<h1 align="center">
-  CurryCat
-</h1>
-
 <p align="center">
-  <b>cybersecurity.og</b><br>
-  Developer · Tool Builder · UI-focused
+  <img src="https://avatars.githubusercontent.com/u/251951476?v=4" height="130" style="border-radius:50%" alt="CurryCat"/>
 </p>
 
----
-
-## 📌 Account Info
-
-This GitHub account is used for:
-- personal development projects  
-- experimental tools and utilities  
-- game-related projects & mods  
-- UI / UX-focused applications  
-
-Most repositories here are **actively developed**, **experimental**, or **part of larger systems**.
-
----
-
-## 🛠️ Main Focus Areas
-
-- **Tooling & Automation**  
-  Custom tools that simplify workflows or expose internals.
-
-- **UI-heavy Applications**  
-  Clean interfaces with smooth animations and attention to detail.
-
-- **Game & Modding Projects**  
-  Engine-level experimentation, mods, and prototypes.
-
-- **Scripting & Systems**  
-  Projects where structure, logic, and performance matter.
-
----
-
-## 💻 Tech Overview
-
-**Languages**
-- Python
-- Java
-- JavaScript
-- HTML / CSS
-
-**Tools & Tech**
-- Git / GitHub
-- Desktop & Web frameworks
-- APIs & custom systems
-
----
-
-## 🌐 Links
-
-- Discord → https://discord.gg/UPVcRep4Wp  
-- GitHub → https://github.com/currycatdev  
-
----
+<p align="center">
+  <a href="https://github.com/currycatdev?tab=followers">
+    <img src="https://img.shields.io/github/followers/currycatdev?style=for-the-badge&label=Followers"/>
+  </a>
+  <a href="https://github.com/currycatdev">
+    <img src="https://komarev.com/ghpvc/?username=currycatdev&style=for-the-badge&label=Profile+Views"/>
+  </a>
+  <img src="https://img.shields.io/badge/Made%20with-Code-555555?style=for-the-badge"/>
+</p>
 
 <p align="center">
-  <sub>Clean projects. Controlled chaos. Multiverse approved.</sub>
+  <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/dist/capsule_render.svg?type=waving&color=gradient&height=100&section=header"/>
+</p>
+
+<p align="center">
+  tools • ui • experiments • controlled chaos
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,unity,git,github,linux&perline=9"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=currycatdev&theme=transparent&hide_border=true" alt="streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=currycatdev&show_icons=true&theme=transparent&hide_border=true" alt="stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=currycatdev&layout=compact&theme=transparent&hide_border=true" alt="top langs"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/dist/capsule_render.svg?type=waving&color=gradient&height=100&section=footer"/>
 </p>
